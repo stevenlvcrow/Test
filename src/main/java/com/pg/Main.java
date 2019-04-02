@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner mScanner = new Scanner(System.in);
         // 输入的文件目录
-        // 家电注释测试
+        // 家注释测试
         String path = mScanner.next();
         System.out.println(path);
     }
